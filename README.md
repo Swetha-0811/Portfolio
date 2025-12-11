@@ -6,9 +6,7 @@ This portfolio highlights my technical abilities, real-world projects, and profe
 
 🚀 Live Demo
 
-👉 Click here to view the portfolio
-
-portfolio-livid-sigma-16.vercel.app
+👉 Click here to view the portfolio    :  portfolio-livid-sigma-16.vercel.app
 
 📌 Features
 🎨 Modern UI & Responsive Design
