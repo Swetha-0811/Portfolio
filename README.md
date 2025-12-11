@@ -32,9 +32,9 @@ Projects – AI, Web Apps, and API-based projects
 Experience – Timeline-based layout
 
 Contact – Email, phone, and social handles
-******
-🛠️ Technologies Used**
-****
+
+**🛠️ Technologies Used******
+
 HTML5
 
 CSS3 (Custom Styling)
