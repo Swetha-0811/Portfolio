@@ -1,39 +1,42 @@
 🌐 Swetha Elangovan – Developer Portfolio
+👋 Welcome
 
-Welcome to my Personal Portfolio Website — a modern, responsive, and visually engaging website showcasing my skills, projects, and experience as a Full Stack Developer | Python Backend Developer.
+This is my Personal Portfolio Website — a modern, responsive, and visually engaging platform showcasing my skills, projects, and experience as a:
 
-This portfolio highlights my technical abilities, real-world projects, and professional background, designed with a clean UI and dark-orange theme for a bold and modern feel.
+Full Stack Developer | Python Backend Developer
+
+The portfolio presents my technical abilities, real-world projects, and professional background, designed with a clean UI and a dark–orange theme for a bold, modern look.
 
 🚀 Live Demo
 
-👉 **Live Demo:**  
-https://portfolio-livid-sigma-16.vercel.app
-
+👉 https://portfolio-livid-sigma-16.vercel.app
 
 📌 Features
 🎨 Modern UI & Responsive Design
 
 Clean black & orange theme
 
-Fully responsive for mobile, tablet, and desktop
+Fully responsive across mobile, tablet, and desktop
 
-Smooth hover effects & professional typography
+Smooth hover effects
 
-**👤 Sections Included**
+Professional, clean typography
 
-Hero Section – Intro with profile image
+👤 Sections Included
 
-About Me – Summary, goals, and resume download
+Hero Section – Introduction with profile image
 
-Skills – Tech stack in categorized cards
+About Me – Summary, career goals, and resume download
 
-Projects – AI, Web Apps, and API-based projects
+Skills – Tech stack categorized neatly
 
-Experience – Timeline-based layout
+Projects – AI, web apps, automation, API-based projects
+
+Experience – Timeline-based structured layout
 
 Contact – Email, phone, and social handles
 
-**🛠️ Technologies Used******
+🛠️ Technologies Used
 
 HTML5
 
@@ -43,39 +46,38 @@ Font Awesome Icons
 
 Responsive Web Design
 
-
 💡 How to Run Locally
 
-Clone the repository:
+1️⃣ Clone the repository:
 
 git clone https://github.com/your-username/your-portfolio.git
 
 
-Open the project folder:
+2️⃣ Open the project folder:
 
 cd your-portfolio
 
 
-Run the website by opening index.html in your browser.
-
+3️⃣ Run the website:
+Open index.html in your browser.
 
 🧑‍💻 About Me
 
 I am Swetha Elangovan, an aspiring Full Stack Developer specializing in:
 
-Backend Development (Python, Flask, Django)
+Python Backend (Flask, Django)
 
 REST APIs & Integrations
 
-Frontend Development (HTML, CSS, JavaScript, React - Basic)
+Frontend (HTML, CSS, JavaScript, React - Basic)
 
-Database Management (MySQL, SQLite)
+Databases (MySQL, SQLite)
 
-Passionate about AI automation, real-world problem solving, and building scalable applications.
+I am passionate about AI automation, problem-solving, and building scalable applications that create real impact.
 
 📬 Contact Me
 
-Feel free to reach out!
+Feel free to reach out for collaborations, opportunities, or project discussions!
 
 LinkedIn: https://www.linkedin.com/in/swetha-elangovan08/
 
