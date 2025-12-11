@@ -19,7 +19,7 @@ Fully responsive for mobile, tablet, and desktop
 
 Smooth hover effects & professional typography
 
-👤 Sections Included
+**👤 Sections Included**
 
 Hero Section – Intro with profile image
 
